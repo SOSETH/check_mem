@@ -1,0 +1,14 @@
+Source: check-mem
+Section: devel
+Priority: optional
+Maintainer: Maximilian Falkenstein <mfalkenstein@sos.ethz.ch>
+Build-Depends: debhelper (>= 9), perl
+Standards-Version: 3.9.8
+Homepage: https://github.com/justintime/nagios-plugins
+Vcs-Git: https://github.com/SOSETH/check_mem.git
+Vcs-Browser: https://github.com/SOSETH/check_mem
+
+Package: check-mem
+Architecture: all
+Depends: ${perl:Depends}
+Description: Check IPMI sensors
