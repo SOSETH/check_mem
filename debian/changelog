@@ -1,3 +1,9 @@
+check-mem (0.1-2) unstable; urgency=medium
+
+  * Bump to latest upstream commit
+
+ -- Maximilian Falkenstein <mfalkenstein@sos.ethz.ch>  Fri, 19 Jul 2019 21:35:51 +0200
+
 check-mem (0.1-1) unstable; urgency=medium
 
   * Initial release
