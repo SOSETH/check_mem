@@ -1,4 +1,4 @@
-check-mem (0.2) UNRELEASED; urgency=medium
+check-mem (0.2) unstable; urgency=medium
 
   * Enable GitLab CI
   * debian: switch to 3.0 (native)
